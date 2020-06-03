@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\HW_5\Anon_Methods\bin\Debug\Anon_Methods.exe.config
+C:\Users\acer\source\repos\HW_5\Anon_Methods\bin\Debug\Anon_Methods.exe
+C:\Users\acer\source\repos\HW_5\Anon_Methods\bin\Debug\Anon_Methods.pdb
+C:\Users\acer\source\repos\HW_5\Anon_Methods\obj\Debug\Anon_Methods.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\HW_5\Anon_Methods\obj\Debug\Anon_Methods.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\HW_5\Anon_Methods\obj\Debug\Anon_Methods.exe
+C:\Users\acer\source\repos\HW_5\Anon_Methods\obj\Debug\Anon_Methods.pdb
